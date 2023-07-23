@@ -1,0 +1,198 @@
+{
+    "albania": {
+      "siglaFlag": "al",
+      "tentativas": ["albania", "albânia", "al"]
+    },
+    "andorra": {
+      "siglaFlag": "ad",
+      "tentativas": ["andorra", "ad"]
+    },
+    "armenia": {
+      "siglaFlag": "am",
+      "tentativas": ["armenia", "am"]
+    },
+    "austria": {
+      "siglaFlag": "at",
+      "tentativas": ["austria", "áustria", "at"]
+    },
+    "azerbaijan": {
+      "siglaFlag": "az",
+      "tentativas": ["azerbaijan", "azerbaijão", "az"]
+    },
+    "belarus": {
+      "siglaFlag": "by",
+      "tentativas": ["belarus", "bielorrússia", "by"]
+    },
+    "belgium": {
+      "siglaFlag": "be",
+      "tentativas": ["belgium", "bélgica", "be"]
+    },
+    "bosniaHerzegovina": {
+      "siglaFlag": "ba",
+      "tentativas": ["bosnia and herzegovina", "bósnia e herzegovina", "ba"]
+    },
+    "bulgaria": {
+      "siglaFlag": "bg",
+      "tentativas": ["bulgaria", "búlgaria", "bg"]
+    },
+    "croatia": {
+      "siglaFlag": "hr",
+      "tentativas": ["croatia", "croácia", "hr"]
+    },
+    "cyprus": {
+      "siglaFlag": "cy",
+      "tentativas": ["cyprus", "chipre", "cy"]
+    },
+    "czechia": {
+      "siglaFlag": "cz",
+      "tentativas": ["czechia", "tchéquia", "cz"]
+    },
+    "denmark": {
+      "siglaFlag": "dk",
+      "tentativas": ["denmark", "dinamarca", "dk"]
+    },
+    "estonia": {
+      "siglaFlag": "ee",
+      "tentativas": ["estonia", "estônia", "ee"]
+    },
+    "finland": {
+      "siglaFlag": "fi",
+      "tentativas": ["finland", "finlândia", "fi"]
+    },
+    "france": {
+      "siglaFlag": "fr",
+      "tentativas": ["france", "frança", "fr"]
+    },
+    "georgia": {
+      "siglaFlag": "ge",
+      "tentativas": ["georgia", "geórgia", "ge"]
+    },
+    "germany": {
+      "siglaFlag": "de",
+      "tentativas": ["germany", "alemanha", "de"]
+    },
+    "greece": {
+      "siglaFlag": "gr",
+      "tentativas": ["greece", "grécia", "gr"]
+    },
+    "hungary": {
+      "siglaFlag": "hu",
+      "tentativas": ["hungary", "hungria", "hu"]
+    },
+    "iceland": {
+      "siglaFlag": "is",
+      "tentativas": ["iceland", "islândia", "is"]
+    },
+    "ireland": {
+      "siglaFlag": "ie",
+      "tentativas": ["ireland", "irlanda", "ie"]
+    },
+    "italy": {
+      "siglaFlag": "it",
+      "tentativas": ["italy", "itália", "it"]
+    },
+    "kosovo": {
+      "siglaFlag": "xk",
+      "tentativas": ["kosovo", "kosovar", "xk"]
+    },
+    "latvia": {
+      "siglaFlag": "lv",
+      "tentativas": ["latvia", "letônia", "lv"]
+    },
+    "liechtenstein": {
+      "siglaFlag": "li",
+      "tentativas": ["liechtenstein", "liechtenstei", "li"]
+    },
+    "lithuania": {
+      "siglaFlag": "lt",
+      "tentativas": ["lithuania", "lituânia", "lt"]
+    },
+    "luxembourg": {
+      "siglaFlag": "lu",
+      "tentativas": ["luxembourg", "luxemburgo", "lu"]
+    },
+    "malta": {
+      "siglaFlag": "mt",
+      "tentativas": ["malta", "mt"]
+    },
+    "moldova": {
+      "siglaFlag": "md",
+      "tentativas": ["moldova", "moldávia", "md"]
+    },
+    "monaco": {
+      "siglaFlag": "mc",
+      "tentativas": ["monaco", "mônaco", "mc"]
+    },
+    "montenegro": {
+      "siglaFlag": "me",
+      "tentativas": ["montenegro", "montenegro", "me"]
+    },
+    "netherlands": {
+      "siglaFlag": "nl",
+      "tentativas": ["netherlands", "países baixos", "nl"]
+    },
+    "northMacedonia": {
+      "siglaFlag": "mk",
+      "tentativas": ["north macedonia", "macedônia do norte", "mk"]
+    },
+    "norway": {
+      "siglaFlag": "no",
+      "tentativas": ["norway", "noruega", "no"]
+    },
+    "poland": {
+      "siglaFlag": "pl",
+      "tentativas": ["poland", "polônia", "pl"]
+    },
+    "portugal": {
+      "siglaFlag": "pt",
+      "tentativas": ["portugal", "pt"]
+    },
+    "romania": {
+      "siglaFlag": "ro",
+      "tentativas": ["romania", "romênia", "ro"]
+    },
+    "russia": {
+      "siglaFlag": "ru",
+      "tentativas": ["russia", "rússia", "ru"]
+    },
+    "sanMarino": {
+      "siglaFlag": "sm",
+      "tentativas": ["san marino", "san marino", "sm"]
+    },
+    "serbia": {
+      "siglaFlag": "rs",
+      "tentativas": ["serbia", "sérvia", "rs"]
+    },
+    "slovakia": {
+      "siglaFlag": "sk",
+      "tentativas": ["slovakia", "eslováquia", "sk"]
+    },
+    "slovenia": {
+      "siglaFlag": "si",
+      "tentativas": ["slovenia", "eslovênia", "si"]
+    },
+    "spain": {
+      "siglaFlag": "es",
+      "tentativas": ["spain", "espanha", "es"]
+    },
+    "sweden": {
+      "siglaFlag": "se",
+      "tentativas": ["sweden", "suécia", "se"]
+    },
+    "switzerland": {
+      "siglaFlag": "ch",
+      "tentativas": ["switzerland", "suíça", "ch"]
+    },
+    "ukraine": {
+      "siglaFlag": "ua",
+      "tentativas": ["ukraine", "ucrânia", "ua"]
+    },
+    "unitedKingdom": {
+      "siglaFlag": "gb",
+      "tentativas": ["united kingdom", "reino unido", "gb"]
+    },
+    "vaticanCity": {
+      "siglaFlag": "va",
+      "tentativas": ["vatican city", "vaticano", "va"]
+    }
+  }
