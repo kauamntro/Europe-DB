@@ -1,4 +1,5 @@
 {
+"dados":{
     "albania": {
       "siglaFlag": "al",
       "tentativas": ["albania", "albânia", "al"]
@@ -196,3 +197,4 @@
       "tentativas": ["vatican city", "vaticano", "va"]
     }
   }
+}  
